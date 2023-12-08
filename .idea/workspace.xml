@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b8b1177-e874-4bdc-8014-54c2edececf9" name="Changes" comment="" />
+    <list default="true" id="9b8b1177-e874-4bdc-8014-54c2edececf9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/review6/E10StringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/review6/E11StringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/review6/E1StringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/review6/E2StringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/review6/E3StringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/review6/E4StringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/review6/E5StringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/review6/E6StringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/review6/E7StringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/review6/E8StringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/review6/E9StringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/review6/person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java10/car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java10/car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java13/E1Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java13/E1Methods.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +36,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -32,17 +51,18 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Germe/IdeaProjects/JavaProject/src/Main.java&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StringDemo10">
-    <configuration name="E3StringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java12.E3StringBuilder" />
+  <component name="RunManager" selected="Application.E11StringDemo">
+    <configuration name="E11StringDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="review6.E11StringDemo" />
       <module name="JavaProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java12.*" />
+          <option name="PATTERN" value="review6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -50,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java13.Palindrome" />
+    <configuration name="E5StringDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="review6.E5StringDemo" />
       <module name="JavaProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java13.*" />
+          <option name="PATTERN" value="review6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringDemo10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java11.StringDemo10" />
+    <configuration name="E6StringDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="review6.E6StringDemo" />
       <module name="JavaProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java11.*" />
+          <option name="PATTERN" value="review6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringDemo9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java11.StringDemo9" />
+    <configuration name="E7StringDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="review6.E7StringDemo" />
       <module name="JavaProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java11.*" />
+          <option name="PATTERN" value="review6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringVsStringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java12.StringVsStringBuilder" />
+    <configuration name="E8StringDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="review6.E8StringDemo" />
       <module name="JavaProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java12.*" />
+          <option name="PATTERN" value="review6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringDemo10" />
-        <item itemvalue="Application.StringDemo9" />
-        <item itemvalue="Application.E3StringBuilder" />
-        <item itemvalue="Application.StringVsStringBuilder" />
-        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.E11StringDemo" />
+        <item itemvalue="Application.E8StringDemo" />
+        <item itemvalue="Application.E7StringDemo" />
+        <item itemvalue="Application.E6StringDemo" />
+        <item itemvalue="Application.E5StringDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -480,6 +500,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/review6/E3StringDemo.java</url>
+          <line>3</line>
+          <properties class="review6.E3StringDemo" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="94" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

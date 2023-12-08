@@ -9,11 +9,12 @@ public class E1Methods {
         int in= str.indexOf('J');
 
 
-        // (return type , output) is  int
+        // (return type , output) is           int & String
 
-       // (input , parameter or argument )  is character J      ... is optional
+       // (input , parameter or argument )     is character J & Java     ... is optional
 
-        //  indexOf  name of the method
+        //  indexOf            name of the method
+        //in & str             name of variable
 
     }
 }

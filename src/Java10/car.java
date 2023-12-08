@@ -1,6 +1,6 @@
 package Java10;
 
-public class car {  /// class is a template of    { attributes + behavior }
+public class car {  /// class is a template from which objects are created    { attributes + behavior }
 
 
     //attributes / blueprint / properties / States /Fields
