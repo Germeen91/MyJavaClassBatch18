@@ -2,7 +2,7 @@ package Java12;
 
 public class Math {
 
-    /// creating caown methods
+    /// creating an own methods
     void printHello(){   // method
         System.out.println("Hello World");
         System.out.println("Hello Batch 18");

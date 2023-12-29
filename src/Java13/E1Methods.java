@@ -9,7 +9,7 @@ public class E1Methods {
         int in= str.indexOf('J');
 
 
-        // (return type , output) is           int & String
+        // (return type , output) is a method          int & String
 
        // (input , parameter or argument )     is character J & Java     ... is optional
 

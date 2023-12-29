@@ -13,6 +13,5 @@ public class StringDemo10 {
         System.out.println(str.replace("B","P"));
 
 
-
     }
 }

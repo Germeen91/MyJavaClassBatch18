@@ -7,7 +7,7 @@ public class E8StringDemo {
         String str="this one should be false";
 
         System.out.println(str.indexOf('o'));
-        System.out.println(str.indexOf("one")); // will give the index of first letter because it execute charactore
+        System.out.println(str.indexOf("one")); // will give the index of first letter because it execute character
         System.out.println(str.indexOf("is"));  //
 
     }

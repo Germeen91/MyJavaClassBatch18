@@ -10,4 +10,27 @@ package Java13;
 
 
 public class Hw3 {
+
+    char getGrade(int score){
+        if (score >90){
+            return 'A';
+        } else if ((score<=90)  && (score>80) ){
+            return 'B';
+        } else if ((score<=80)   && (score >70)) {
+            return 'C';
+        } else if ((score <=70)  && (score>50)) {
+            return 'D';
+        }else {return 'F';}
+
+
+    }
+
+
+    public static void main(String[] args) {
+
+        Hw3 obj=new Hw3();
+
+        char x=obj.getGrade(50);
+        System.out.println("your grade is "+x);
+    }
 }

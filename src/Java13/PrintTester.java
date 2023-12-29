@@ -7,15 +7,15 @@ public class PrintTester {
         Printer p=new Printer();  // create an object of class name
 
 
-        p.printHello();  // no putting anything in parentheses because in the class no parameter
+        p.printHello();  // no argument  in parentheses because in the class no parameter
                           // the method empty
 
 
-   p.printWord("Java");  // we have String parameter so we print parameter
+   p.printWord("Java");  // we have String parameter so we print String argument
 
 
 
-   p.printManyTimes("Java",5); // we have 2 parameter String , int
-
+   p.printManyTimes("Java",5); // we have 2 argument String , int
+                                       // like 2 parameter
     }
 }

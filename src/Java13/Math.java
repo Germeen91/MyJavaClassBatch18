@@ -8,7 +8,7 @@ public class Math {
 
         System.out.println(input1 + input2);
     }
-        // (return type , output) is  void
+        // (return type , output) is  void method when you are not planning to return something(no get feedback) no if , no loop , no any thing
         // (input , parameter or argument )  is int input 1,2      ... is optional
         //  add  name of the method
 
@@ -18,7 +18,7 @@ public class Math {
 
         return num1*num2;
         }
-    // (return type , output) is  int
+    // (return type , output) is  int method
     // (input , parameter or argument )  is int num 1,2      ... is optional
     //  multiply  name of the method
 
