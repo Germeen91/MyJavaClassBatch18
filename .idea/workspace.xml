@@ -5,130 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b8b1177-e874-4bdc-8014-54c2edececf9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java13/Hw4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java14/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java14/AccountTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java14/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java14/E1LocalVer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java14/HW1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java14/HW2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java14/Horse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java14/HorseTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java14/NoteAccessModify.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java14/Students.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java14/StudentsTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java14/SyntaxEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java14/SyntaxEmployeeTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java14/T1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java14/T2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java14/cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java14/person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java14/personTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java15/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java15/DemoTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java15/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java15/DogTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java15/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java15/Task1Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java15/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java15/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java15/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java15/ThisKeyWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java15/cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java15/person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java15/personTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java15/student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java15/studentTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java16/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java16/AnimalTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java16/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java16/E.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java16/MultilevelTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java16/TaskMultilevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java16/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java16/cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java16/person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java17/AnimalTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java17/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java17/E1MethodOverLoading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java17/HW1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java17/HW2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java17/HW3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java17/HW4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java17/parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java18/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java18/AnimalTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java18/FinalDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java18/HW1Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java18/HW2Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java18/HW3Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java18/StringBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java18/T1Degree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java18/T2CreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java18/parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java18/person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java18/personTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java19/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java19/AnimalTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java19/E2Poly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java19/E4Poly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java19/E5Poly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java19/HW1Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java19/HW2BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java19/HW3Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java19/computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java19/computerTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java19/student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java19/studentTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java20/apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java20/computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java21/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java21/AnimalTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java21/Drawing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java21/ExcelFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java21/File.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java21/FileTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java21/MusicPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java21/MusicPlayerTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java21/ReadData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java21/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java21/VehicleTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/browser/Chrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review7/HW1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review7/HW2Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review7/HW3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review7/HW4Programming.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review7/HW5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review7/HW6Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review7/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review8/Doctor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review8/EmergencyRoom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review8/Hospital.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review8/sport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review8_1/Orthodontist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review9/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review9/PolyTesterAnimal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java22Encapsulation/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java22Encapsulation/BankAccountTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java22FrameWork/E1ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java22FrameWork/E1CF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java22FrameWork/E2ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java22FrameWork/E3ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java22FrameWork/E4ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java22FrameWork/E5ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java22FrameWork/E6ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java22FrameWork/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java22FrameWork/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java22FrameWork/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java22FrameWork/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java22HW/hw1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java22HW/hw2Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java22HW/hw2Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java22InterFaces/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java22InterFaces/EmployeeTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java22InterFaces/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java22InterFaces/MathTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java22InterFaces/WebDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java22InterFaces/WebTester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java11/StringDemo10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java11/StringDemo10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java12/E3StringBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java12/E3StringBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java12/Math.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java12/Math.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java12/MathTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java12/MathTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java13/E1Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java13/E1Methods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java13/Hw1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java13/Hw1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java13/Hw2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java13/Hw2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java13/Hw3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java13/Hw3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java13/Math.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java13/Math.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java13/MathTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java13/MathTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java13/Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java13/Number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java13/PrintTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java13/PrintTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java13/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java13/Printer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/review6/E8StringDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/review6/E8StringDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java21/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java21Abstract/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java21/AnimalTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java21Abstract/AnimalTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java21/Drawing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java21Abstract/Drawing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java21/ExcelFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java21Abstract/ExcelFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java21/ExelFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java21Abstract/ExelFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java21/File.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java21Abstract/File.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java21/FileTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java21Abstract/FileTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java21/MusicPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java21Abstract/MusicPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java21/MusicPlayerTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java21Abstract/MusicPlayerTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java21/ReadData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java21Abstract/ReadData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java21/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java21Abstract/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java21/VehicleTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java21Abstract/VehicleTester.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,13 +93,13 @@
       <recent name="Java19" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PolyTesterAnimal">
-    <configuration name="AnimalTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java21.AnimalTester" />
+  <component name="RunManager" selected="Application.Task4">
+    <configuration name="BankAccountTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java22Encapsulation.BankAccountTester" />
       <module name="JavaProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java21.*" />
+          <option name="PATTERN" value="Java22Encapsulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Drawing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java21.Drawing" />
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java22FrameWork.Task3" />
       <module name="JavaProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java21.*" />
+          <option name="PATTERN" value="Java22FrameWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -209,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E1Print" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java1.E1Print" />
+    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java22FrameWork.Task4" />
       <module name="JavaProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java1.*" />
+          <option name="PATTERN" value="Java22FrameWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -222,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E1StringDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java12.E1StringDemo" />
+    <configuration name="hw1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java22HW.hw1" />
       <module name="JavaProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java12.*" />
+          <option name="PATTERN" value="Java22HW.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -235,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PolyTesterAnimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="review9.PolyTesterAnimal" />
+    <configuration name="hw2Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java22HW.hw2Tester" />
       <module name="JavaProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="review9.*" />
+          <option name="PATTERN" value="Java22HW.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -250,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PolyTesterAnimal" />
-        <item itemvalue="Application.Drawing" />
-        <item itemvalue="Application.AnimalTester" />
-        <item itemvalue="Application.E1StringDemo" />
-        <item itemvalue="Application.E1Print" />
+        <item itemvalue="Application.Task4" />
+        <item itemvalue="Application.hw2Tester" />
+        <item itemvalue="Application.BankAccountTester" />
+        <item itemvalue="Application.hw1" />
+        <item itemvalue="Application.Task3" />
       </list>
     </recent_temporary>
   </component>
@@ -391,6 +302,16 @@
           <url>file://$PROJECT_DIR$/src/Java18/HW1Car.java</url>
           <line>45</line>
           <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Java22FrameWork/E6ArrayList.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Java22FrameWork/Task4.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="135" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Java1/Main.java</url>
@@ -778,6 +699,69 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Java22FrameWork/E4ArrayList.java</url>
+          <line>5</line>
+          <properties class="Java22FrameWork.E4ArrayList" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Java22FrameWork/Task1.java</url>
+          <line>5</line>
+          <properties class="Java22FrameWork.Task1" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Java22FrameWork/E5ArrayList.java</url>
+          <line>7</line>
+          <properties class="Java22FrameWork.E5ArrayList" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Java22FrameWork/Task2.java</url>
+          <line>6</line>
+          <properties class="Java22FrameWork.Task2" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Java22FrameWork/E1CF.java</url>
+          <line>5</line>
+          <properties class="Java22FrameWork.E1CF" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Java22HW/hw1.java</url>
+          <line>5</line>
+          <properties class="Java22HW.hw1" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Java22Encapsulation/BankAccountTester.java</url>
+          <line>3</line>
+          <properties class="Java22Encapsulation.BankAccountTester" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="133" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
