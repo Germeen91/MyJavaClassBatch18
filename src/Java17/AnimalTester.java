@@ -20,6 +20,9 @@ public class AnimalTester {
 
        d.printInfo();
 
+       cat c=new cat(); // null because empty constructor
+       c.printInfo();
+
     }
 
 }

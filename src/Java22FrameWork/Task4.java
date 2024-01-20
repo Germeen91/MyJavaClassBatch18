@@ -15,13 +15,26 @@ for (int i=2; i<=500; i+=2){
 }
         System.out.println(numbers);
 
-for (int p=0; p<numbers.size(); p++){
 
-    if (numbers.get(p)%5==0){
-      numbers.remove(p);
-    }
-}
+        for (int p=0; p<numbers.size(); p++){
+
+            if (numbers.get(p)%5==0){
+                numbers.remove(p);
+                p--;
+            }
+        }
         System.out.println(numbers);
+
+
+      //  numbers.removeIf(x->x%5==0);    >> using Lambda expression
+        // System.out.println(numbers);
+
+
+
+
+
+
+
 
 }
     }

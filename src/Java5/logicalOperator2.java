@@ -5,7 +5,9 @@ public class logicalOperator2 {
 
         String country="UK";
 
-
+        if(!country.equals("Iran")){
+            System.out.println("You can visit the USA");
+        }
 
 
 

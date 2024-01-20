@@ -10,9 +10,9 @@ public class Scan9 {
 // otherwise you can tell them that they can spend more.
 
         System.out.println("Do you have a credit card?");
-
         Scanner sc=new Scanner(System.in);
          String answer=sc.nextLine();
+
 
          if(answer.equals("yes")){
              System.out.println("what is balance on card?");

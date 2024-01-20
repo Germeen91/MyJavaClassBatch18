@@ -9,6 +9,7 @@ class StringBuilderDemo {
         StringBuilder sb=new StringBuilder("Hello");
         sb.append("And Welcome");
         System.out.println(sb);
+        System.out.println(sb.reverse());
 
 
 

@@ -2,12 +2,12 @@ package Java17;
 
 
 
-// Over Load Methods when we create same main methods but diff parameter
+// Over Load Methods when we execute same name methods in the same class but diff parameter
 //By :
 //> change number of parameter
 //> change data type
 //> change sequence
-//why ?to make is live easy
+//why ?to make us reuse the same method by diff ways
 
 // name of method+ parameter (signature)
 
@@ -40,7 +40,7 @@ class MathDemo {
             MathDemo.add(10, 20);
             MathDemo.add(15.5, 25.5);
             MathDemo.add(15.5, 25.5, 25.5);
-// static void or static var  not need create obj  just name of class >> name of var or method
+// static void for static var and do not need create obj  just name of class >> name of var or method
 
 
             System.out.println(10);

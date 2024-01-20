@@ -14,7 +14,7 @@ public class MathTester {
         int a=m.add(10,10);
         System.out.println(a);
 
-        Calculator cc=new Math();
+        Calculator cc=new Math();// polymorphism parent class =new child class
 
     }
 }

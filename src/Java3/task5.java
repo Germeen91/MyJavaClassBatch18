@@ -13,7 +13,7 @@ public class task5 {
         }else if(day==3){
             System.out.println("Wednesday");
         }else if(day==4){
-            System.out.println("Thursday");//java foud the true condition here so java ignored all conditions after that
+            System.out.println("Thursday");//java found the true condition here so java ignored all conditions after that
         }else if(day==5){
             System.out.println("Friday");
 

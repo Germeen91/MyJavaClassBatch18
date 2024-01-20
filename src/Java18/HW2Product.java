@@ -32,16 +32,25 @@ class Discount extends HW2Product {
             this.discount = discount;
         }
 
-    public void NetPrice(double price, double quantity,double discount) {
+    @Override
+    void print() {
+        super.print();
+        System.out.println(discount);
+        }
+
+    public void NetPrice(double price, double quantity, double discount) {
         System.out.println("The Price Of Product After discount Is :" +(price*quantity*discount));
     }
 
     public static void main(String[] args) {
            HW2Product obj=new HW2Product("Toys",10,3);
+           obj.print();
            obj.NetPrice(10,3);
 
-        Discount ob=new Discount("Toys",10,3,.5);
+        Discount ob=new Discount("Balls",10,3,.5);
+        ob.print();
         ob.NetPrice(10,3,.5);
+
     }
 }
 

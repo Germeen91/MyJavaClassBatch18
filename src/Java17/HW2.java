@@ -11,7 +11,7 @@ public class HW2 {
     }
 
     void print2(String word){
-        System.out.println("I love Java");
+        System.out.println("I love "+word);
     }
 
     public static void main(String[] args) {

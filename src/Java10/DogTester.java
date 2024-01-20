@@ -3,8 +3,8 @@ package Java10;
 public class DogTester {
     public static void main(String[] args) { // to execute your cod
 
-        //called creating an abject of the class
-        Dog dog1=new Dog();   // name of class(class is now datatype) + name variable
+  //called creating an abject of the class
+        Dog dog1=new Dog();  // name of class(class is now datatype) + name variable
 
 
 
@@ -16,7 +16,7 @@ public class DogTester {
 
 
 
-        dog1.name="Jaky";
+      dog1.name="Jaky";
         dog1.breed="German";
         dog1.weight=15;
         dog1.color="black";

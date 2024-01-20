@@ -12,8 +12,8 @@ public class Scan7 {
 
         System.out.println("what is your age?");
         Scanner a=new Scanner(System.in);
-
         int age=a.nextInt();
+
         if (age>=18){
             System.out.println("you will issue a driver license");
         }else {

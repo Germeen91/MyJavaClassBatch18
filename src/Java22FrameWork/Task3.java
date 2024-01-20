@@ -12,13 +12,13 @@ public class Task3 {
         words.add("Nazi");
         words.add("Sherif");
 
-        for (int i = 0; i < words.size(); i++) {
+        for (int i = 0; i < words.size(); i++) {  // enhanced loop not working here because of size is dynamic
             if(words.get(i).endsWith("e")){
                 words.remove(i);  // Array list is dynamic it can change its size at runtime
                 i--;               // because arraylist is continuing based on the previous, so we need decrease
             }
         }
-        // no need loop
+        //Or no need loop
         System.out.println(words);
         /////////////////////////////////////////////////////
 

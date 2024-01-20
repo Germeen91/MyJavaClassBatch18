@@ -10,7 +10,8 @@ public class Dog { /// class is a template of    { attributes + behavior }
     int age;
     double weight;
 
-      // behavior / methods /  functions
+
+    // behavior / methods /  functions
     void bark(){
         System.out.println("Wau Wau.......");
     }

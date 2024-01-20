@@ -1,5 +1,11 @@
 package Java22Encapsulation;
-// must have to but instance var privet not read+ not write So we have to create constructor
+//Encapsulation in Java is a mechanism for
+//wrapping the data (variables) and code acting on
+//the data (methods) together as a single unit
+/////////////////////////////////////////////////////
+//1-create a separate class for every entity and
+// define the methods instead of putting every thing inside the main method
+// 2-must put instance var privet those (not read+ not write) So we have to create constructor
 //Encapsulate expose data, but in read only manner, no changes can be made
 public class BankAccount {
    private double balance;
@@ -22,7 +28,7 @@ void resetPassword(){
     System.out.println("Reset password");
 }
 
-    public double getBalance() {  // to read privet data
+    public double getBalance() {  //create it in parent class to read privet data in child
         return balance;
     }
 

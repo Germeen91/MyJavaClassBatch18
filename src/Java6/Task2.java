@@ -5,7 +5,7 @@ public class Task2 {
 
         // print numbers from 100 to 1
 
-        for (int x=100;x>=1;--x){
+        for (int x=100;x>=1;x--){
             System.out.print(x+" ");
         }
 

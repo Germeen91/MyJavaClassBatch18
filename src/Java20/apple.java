@@ -8,7 +8,7 @@ public class apple extends computer {
         } // calling parent constructor
 
         // when we provide implementation to the abstract classes we MUST follow rules of OVERiding !!!
-        // Sme method name and parameter MUST be same - method signature MUST be same
+        // Same method name and parameter MUST be same - method signature MUST be same
         //return type must be same
         //Access Modifier Must be same OR wider
 

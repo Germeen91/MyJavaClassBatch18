@@ -1,11 +1,11 @@
 package Java4more;
 
 
-import java.util.Scanner; // hit double shift-auto import check 2 boxs
+import java.util.Scanner; // hit double shift-auto import check 2 boxes
 
 public class Scan1 {
 
-    public static void main(String[] args) {//dont call your class scanner java will confuse
+    public static void main(String[] args) {//do not call your class scanner java will confuse
 
         System.out.println("please enter your age");
 /* Scanner is datatype
@@ -15,7 +15,7 @@ new is a keyboard that we use to create objects
 
   */
         Scanner scan=new Scanner(System.in);
-        //scan.nextInt() take the int number from the
+        //scan.nextInt() take the int number from the user
         // keyboard and store it inside age variable
         int age=scan.nextInt();
 

@@ -27,13 +27,13 @@ public class Animal {
 }
 
 class Dog extends Animal {
-    public Dog(String name, String color, int age, double weight) {
+    public Dog(String name, String color, int age, double weight) { // match child cons same parent
         super(name, color, age, weight);  // use super to call constructor from parent class
     }
 
     public void speak() {    // over ride method the same of parent class but need to change it without create new method
         System.out.println("Wuff Wuff");
-    }  // over riding the same return type ,same name diff sout
+    }  // over riding the same return type ,same name diff sout/implementation/action
                                                               // but over load diff number , diff parameter ,same name and could be diff return type
 
     public void Demo(String str) {

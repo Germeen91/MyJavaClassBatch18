@@ -18,5 +18,7 @@ public class T2 {
         int []numbers={10,10,20};
         int summm= t.sumArray(numbers); //created return type > object > name of method> parameter is the array
         System.out.println(summm);   // then print
+
+        System.out.println(t.sumArray(numbers)); // anther print
     }
 }

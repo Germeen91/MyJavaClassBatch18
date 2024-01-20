@@ -13,7 +13,6 @@ public class Scan8 {
 
 
         System.out.println("what is the Temperature in F ?");
-
         Scanner m=new Scanner(System.in);
         double temp=m.nextDouble();
 

@@ -18,10 +18,10 @@ public class E4ArrayList {
 
         for(int i=0; i<names.size();i++){  // loop to get element one by one
            System.out.println(names.get(i));  // print ArrayList by get method
-
-
         }
+
         System.out.println("********************");
+
 for ( String p:names){
     System.out.println(p);
 }
