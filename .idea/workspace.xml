@@ -5,274 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b8b1177-e874-4bdc-8014-54c2edececf9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Files/Batch18.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Files/HRMSTestData.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Files/config.proporties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ASCII/PrintNumbersWithoutNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java16Inheritance/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java16Inheritance/cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java23LinkedList/E8Collection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java23LinkedList/HashSet1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java23LinkedList/HashSet2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java23LinkedList/HashSet3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java23LinkedList/LinkedList1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java23LinkedList/Notes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java23LinkedList/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java23LinkedList/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java23LinkedList/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java23LinkedList/Task4Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java23LinkedList/TreeSet1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java23LinkedList/linkedList2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java24Maps/E1Maps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java24Maps/E2Maps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java24Maps/E3Maps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java24Maps/E4Maps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java24Maps/E5Maps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java24Maps/E6Maps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java24Maps/HW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java24Maps/LambdaExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java24Maps/LambdaExpression2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java24Maps/LambdaExpression3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java24Maps/Notes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java24Maps/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java24Maps/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java24Maps/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java24Maps/person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java25FileHandling/E1FileHandling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java25FileHandling/E2FileHandling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java25FileHandling/E3Selenium.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java25FileHandling/E4ExelFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java25FileHandling/E5ExcelFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java25FileHandling/E6NestedData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java25FileHandling/E7NestedData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java25FileHandling/E8NestedFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java25FileHandling/Notes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java25FileHandling/Try.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java25Utils/ConfigReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java25Utils/Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java25Utils/ExcelReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java26/E2Excel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java26/E3Excel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java26/E4Excel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java26/E5HRMTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java26/E6Exception.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java26/E7Exception.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review10/ArrayList01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review10/ArrayList02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review10/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review10/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review11/E1ArrayListVsLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review11/E2Maps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review11/E3Maps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review11/E4Stream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review11/E5Files.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review11/E6Files.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review11/E7files.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review11/Quiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review11/notes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Java11StringDemo/StringDemo10.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Java11StringDemo/StringDemo2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Java11StringDemo/StringDemo3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Java11StringDemo/StringDemo5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Java11StringDemo/StringDemo7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Java11StringDemo/StringDemo8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Java11StringDemo/StringDemo9.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Java11StringDemo/Task1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Java11StringDemo/Task2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Java11StringDemo/Task3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Java11StringDemo/Task4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Java16Inheritance/AnimalTester.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Java16Inheritance/Audi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Java16Inheritance/Car.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Java16Inheritance/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Java16Inheritance/E.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Java16Inheritance/ETester.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Java16Inheritance/F.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Java16Inheritance/MultilevelTester.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Java16Inheritance/TaskMultilevel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Java16Inheritance/TeacherTester.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Java16Inheritance/Vehicle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Java16Inheritance/cat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Java16Inheritance/studentTester.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Java16Inheritance/x.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Java16Inheritance/y.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Java16Inheritance/z.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Java19Poly/AnimalTester.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Java19Poly/BankAccountTester.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Java19Poly/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Java19Poly/E2Poly.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Java19Poly/ProductTester.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Java19Poly/cat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Java19Poly/collegeStudent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Java19Poly/computerTester.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Java19Poly/schoolStudent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Java19Poly/student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Java19Poly/studentTester.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/review10/BankAccount.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/review10/BankTester.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java10/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java10/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java10/DogTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java10/DogTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java11/StringDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java11StringDemo/StringDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java11/StringDemo10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java11StringDemo/StringDemo10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java11/StringDemo11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java11StringDemo/StringDemo11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java11/StringDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java11StringDemo/StringDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java11/StringDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java11StringDemo/StringDemo3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java11/StringDemo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java11StringDemo/StringDemo4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java11/StringDemo5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java11StringDemo/StringDemo5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java11/StringDemo6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java11StringDemo/StringDemo6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java11/StringDemo7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java11StringDemo/StringDemo7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java11/StringDemo8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java11StringDemo/StringDemo8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java11/StringDemo9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java11StringDemo/StringDemo9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java11/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java11StringDemo/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java11/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java11StringDemo/Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java11/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java11StringDemo/Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java11/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java11StringDemo/Task4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java14/T2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java14/T2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java16/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java16Inheritance/AnimalSingleInheritance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java16/AnimalTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java16Inheritance/AnimalTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java16/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java16/E.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java16Inheritance/E.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java16/MultilevelTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java16Inheritance/MultilevelTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java16/TaskMultilevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java16Inheritance/TaskMultilevel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java16/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java16Inheritance/Teacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java16/cat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java16/person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java16Inheritance/person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java17/AnimalTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java17/AnimalTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java17/E1MethodOverLoading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java17/E1MethodOverLoading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java17/HW1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java17/HW1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java17/HW2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java17/HW2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java18/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java18/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java18/HW2Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java18/HW2Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java18/StringBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java18/StringBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java20/apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java20/apple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java21Abstract/ExcelFile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java22Encapsulation/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java22Encapsulation/BankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java22Encapsulation/BankAccountTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java22Encapsulation/BankAccountTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java22FrameWork/E1ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java22FrameWork/E1ArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java22FrameWork/E1CF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java22FrameWork/E1CF.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java22FrameWork/E3ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java22FrameWork/E3ArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java22FrameWork/E4ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java22FrameWork/E4ArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java22FrameWork/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java22FrameWork/Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java22FrameWork/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java22FrameWork/Task4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java22InterFaces/MathTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java22InterFaces/MathTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java3/task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java3/task5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java4more/Scan1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java4more/Scan1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java4more/Scan7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java4more/Scan7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java4more/Scan8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java4more/Scan8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java4more/Scan9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java4more/Scan9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java5/LogicalOPerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java5/LogicalOperator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java5/logicalOperator2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java5/logicalOperator2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java5/task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java5/task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java6/ForLoop1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java6/ForLoop1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java6/ForLoopTask3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java6/ForLoopTask3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java6/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java6/Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java7/Array7Lenght.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java7/Array7Lenght.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/review9/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/review9Abstract$Interfaces/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/review9/PolyTesterAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/review9Abstract$Interfaces/PolyTesterAnimal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/review9/Washable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/review9Abstract$Interfaces/Washable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java10/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java10/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java11/StringDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java11StringDemo/StringDemo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java11/StringDemo10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java11/StringDemo11.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java11StringDemo/StringDemo11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java11/StringDemo2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java11/StringDemo3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java11/StringDemo4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java11StringDemo/StringDemo4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java11/StringDemo5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java11/StringDemo6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java11StringDemo/StringDemo6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java11/StringDemo7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java11/StringDemo8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java11/StringDemo9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java11/Task1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java11/Task2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java11/Task3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java11/Task4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java14/T2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java14/T2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java16/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java16Inheritance/AnimalSingleInheritance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java16/AnimalTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java16/Audi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java16/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java16/ChemistryTeacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java16Inheritance/ChemistryTeacher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java16/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java16/E.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java16/ETester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java16/F.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java16/MathTeacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java16Inheritance/MathTeacher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java16/MultilevelTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java16/PianoTeacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java16Inheritance/PianoTeacher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java16/TaskMultilevel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java16/Teacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java16Inheritance/Teacher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java16/TeacherTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java16/Vehicle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java16/cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java16/person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java16Inheritance/person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java16/student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java16Inheritance/student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java16/studentTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java16/x.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java16/y.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java16/z.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java17/AnimalTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java17/AnimalTester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java17/HW2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java17/HW2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java18/Discount.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java18/Discount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java18/StringBuilderDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java18/StringBuilderDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java19/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java19Poly/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java19/AnimalTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java19/Apple.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java19Poly/Apple.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java19/BankAccountTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java19/Bicycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java19Poly/Bicycle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java19/Books.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java19Poly/Books.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java19/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java19Poly/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java19/CheckingAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java19Poly/CheckingAccount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java19/Clothing.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java19Poly/Clothing.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java19/Dell.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java19Poly/Dell.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java19/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java19/E2Poly.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java19/E4Poly.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java19Poly/E4Poly.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java19/E5Poly.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java19Poly/E5Poly.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java19/Electronics.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java19Poly/Electronics.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java19/FixedDepositAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java19Poly/FixedDepositAccount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java19/Furniture.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java19Poly/Furniture.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java19/HP.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java19Poly/HP.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java19/HW1Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java19Poly/HW1Vehicle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java19/HW1VehicleTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java19Poly/HW1VehicleTester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java19/HW2BankAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java19Poly/HW2BankAccount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java19/HW3Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java19Poly/HW3Product.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java19/Lenovo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java19Poly/Lenovo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java19/Motorcycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java19Poly/Motorcycle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java19/ProductTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java19/SavingsAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java19Poly/SavingsAccount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java19/Truck.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java19Poly/Truck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java19/cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java19/collegeStudent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java19/computer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java19Poly/computer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java19/computerTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java19/schoolStudent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java19/student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java19/studentTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java19/syntaxStudent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java19Poly/syntaxStudent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java21Abstract/ExcelFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java22Encapsulation/BankAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java22Encapsulation/BankAccount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java22FrameWork/E1ArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java22FrameWork/E1ArrayList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java22FrameWork/E1CF.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java22FrameWork/E1CF.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java22FrameWork/E3ArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java22FrameWork/E3ArrayList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java22FrameWork/E4ArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java22FrameWork/E4ArrayList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java22FrameWork/Task4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java22FrameWork/Task4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java4more/Scan7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java4more/Scan7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java4more/Scan8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java4more/Scan8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java4more/Scan9.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java4more/Scan9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java5/LogicalOPerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java5/LogicalOPerator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java5/logicalOperator2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java5/logicalOperator2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java7/Array7Lenght.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java7/Array7Lenght.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/review9/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/review9/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/review9/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/review9/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/review9/Horse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/review9/Laptop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/review9/PolyTesterAnimal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/review9/Trustable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/review9/Washable.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -300,20 +33,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Germe/IdeaProjects/JavaProject/Files",
-    "onboarding.tips.debug.path": "C:/Users/Germe/IdeaProjects/JavaProject/src/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.XPath"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Germe/IdeaProjects/JavaProject/Files&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Germe/IdeaProjects/JavaProject/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.XPath&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Germe\IdeaProjects\JavaProject\Files" />
@@ -1031,15 +764,6 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="140" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Java25FileHandling/Try.java</url>
-          <line>8</line>
-          <properties class="Java25FileHandling.Try" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="142" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Java6/ForLoop1.java</url>
