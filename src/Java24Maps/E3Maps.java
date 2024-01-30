@@ -17,11 +17,11 @@ public class E3Maps {
         System.out.println(maps.keySet());
         System.out.println(maps.values());
 
-        //Returns the keys in the form of a st
+        //Returns the keys in the form of a set
         Set<String > keys=maps.keySet();
         ArrayList <String> array=new ArrayList<>(keys); // convert it
 
-        for (String K:keys){   // maps not support loop directly you have to set method && remove because has 2 data type
+        for (String K:keys){   // maps not support loop directly you have to set method && remove because has 2 parameters
             System.out.println(K);
         }
         System.out.println(keys);

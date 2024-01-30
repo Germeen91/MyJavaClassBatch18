@@ -28,7 +28,7 @@ public class Dog extends Animal {
 Dog (String name, String color, int age, double weight){
     super(name,color,age,weight);
 }// we have to create constructor for child
-    // depend on  parent constructor
+    // depend on  parent constructor (which field do you want initialize)
 
 }
 class cat extends Animal{

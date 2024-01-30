@@ -13,7 +13,7 @@ public class Array2 {
 
 
         System.out.println(matrix[1][1]);     // row number 1  and element number 1
-        System.out.println(matrix[0][2]);  // row number 1 and element number 2
+        System.out.println(matrix[0][2]);  // row number 0 and element number 2
         System.out.println(matrix[3][2]);
        // System.out.println(matrix[0][3]);  // Error
 

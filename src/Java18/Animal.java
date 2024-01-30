@@ -31,9 +31,9 @@ class Dog extends Animal {
         super(name, color, age, weight);  // use super to call constructor from parent class
     }
 
-    public void speak() {    // over ride method the same of parent class but need to change it without create new method
+    public void speak() {    // override method the same of parent class but need to change it without create new method
         System.out.println("Wuff Wuff");
-    }  // over riding the same return type ,same name diff sout/implementation/action
+    }  // overriding the same return type ,same name diff sout/implementation/action
                                                               // but over load diff number , diff parameter ,same name and could be diff return type
 
     public void Demo(String str) {

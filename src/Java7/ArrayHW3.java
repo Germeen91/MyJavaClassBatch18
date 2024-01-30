@@ -12,7 +12,7 @@ public class ArrayHW3 {
         char[] values = {'G', 'S', 'B', 'M'}; // index  in order 0 1 2 /element size
 
 
-            for (int i = 3; i >= 0; i--) {
+            for (int i = 3; i >= 0; i--) { // i is index and index always less than number of element -1
                 System.out.print(values[i] + " ");
             }
         System.out.println();

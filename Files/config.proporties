@@ -4,6 +4,8 @@ password1=pass123
 url1=www.facebook.com
 browser=Chrome
 
+
+// for Java25 E3Selenium class  & Java26 E5HRMTester
 url=http://hrm.syntaxtechs.net/humanresources/symfony/web/index.php/dashboard
          userName=Admin
          password=Hum@nhrm123

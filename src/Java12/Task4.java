@@ -33,9 +33,9 @@ boolean girl=true;
 ////////////////////////////////////////////////////////
 
         if (boy){
-            System.out.println(FirstFatherName.substring(0,FirstFatherName.length()/2)+FirstMotherName.substring(FirstMotherName.length()/2));
+            System.out.println(FirstFatherName.substring(0,FirstFatherName.length()/2) +FirstMotherName.substring(FirstMotherName.length()/2));
         } else if (girl) {
-            System.out.println(FirstMotherName.substring(0,FirstMotherName.length()/2)+FirstFatherName.substring(FirstFatherName.length()/2));
+            System.out.println(FirstMotherName.substring(0,FirstMotherName.length()/2) +FirstFatherName.substring(FirstFatherName.length()/2));
 
         }
 

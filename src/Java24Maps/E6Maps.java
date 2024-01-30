@@ -19,6 +19,7 @@ public class E6Maps {
         System.out.println(studentMap);
 
 
+        //if we have if condition with some keys or values [we have to convert it to entrySet to use for loop because now after converted we have one data type is <Map.Entry<....>>]
 //Map -> Entry- >Key Value
         //      studentEntries =studentsMap.entrySet();
 

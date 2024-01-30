@@ -16,7 +16,7 @@ public class studentTester {
             //if subclass has unique method
 
           /* if(student instanceof syntaxStudents ){
-                syntaxStudents s=  (SyntaxStudents)student;
+                syntaxStudents s=  (syntaxStudents)student;
                 s.play();*/
             }
 

@@ -14,14 +14,14 @@ import java.util.Map;
 public class E5HRMTester {
     public static void main(String[] args) throws IOException {
 
+        // read Excel here
         String path="C:\\Users\\Germe\\IdeaProjects\\JavaProject\\Files\\HRMSTestData.xlsx";
-
         String sheetName="Sheet1";
         List<Map<String,String>> testData= ExcelReader.read(path,sheetName);
         System.out.println(testData);
 
-
-        String url= ConfigReader.read("url");
+// then read the data from file as a secure
+        String url= ConfigReader.read("url");// because method is static no need object and store in var
         String userName=ConfigReader.read("userName");
         String password=ConfigReader.read("password");
         WebDriver webDriver=new ChromeDriver();
@@ -33,8 +33,8 @@ public class E5HRMTester {
         userNameWE.sendKeys(userName);
         passwordWE.sendKeys(password);
         enterBtn.click();
-
-
+        // Then load excel data to my web that i opened as a secure from file
+        // By Lambda direct
         testData.forEach(x->{
 
             webDriver.findElement(By.xpath("//b[normalize-space()='PIM']")).click();
@@ -44,6 +44,7 @@ public class E5HRMTester {
             webDriver.findElement(By.xpath("//input[@id='lastName']")).sendKeys(x.get("LastName"));
             webDriver.findElement(By.xpath("//input[@id='btnSave']")).click();
         });
+
 
 
 

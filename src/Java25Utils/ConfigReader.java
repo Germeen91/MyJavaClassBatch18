@@ -5,13 +5,24 @@ import java.io.IOException;
 import java.util.Properties;
 
 public class ConfigReader {
+
+    //class has method to help us read the data from File
     public static String read(String key) throws IOException {
 
-        //Navigate from constant
+        return read(key, Constants.CONFIG_FILE_PATH);
+    }
 
-        FileInputStream fis=new FileInputStream(Constants.CONFIG_FILE_PATH);  // same steps with diff path
-        Properties properties=new Properties();
-        properties.load(fis);
+        public static String read(String key,String path)  {
+
+            // same steps with diff path
+           Properties properties = new Properties(); // to can use it as return / if i put it inside try block it will be local Var and i can not access it outside as return
+
+            try( FileInputStream fis = new FileInputStream(path)) { //finally with recourse
+                properties.load(fis);
+
+            }catch (IOException e){
+                e.printStackTrace();
+            }
 
         return properties.getProperty(key);
 

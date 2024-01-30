@@ -25,7 +25,6 @@ public class LambdaExpression {
 
 
 
-
         System.out.println("********************************");
         names.removeIf(d->d.length()>3); // the letter of name less than 3
         System.out.println(names);

@@ -19,6 +19,7 @@ public class carTesting {
 
         bmw.honk();
         bmw.ApplyBrake();
+        bmw.drive();
 
 
 

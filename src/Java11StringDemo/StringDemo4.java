@@ -13,7 +13,7 @@ public class StringDemo4 {
         System.out.println(".........................");
 
         System.out.println(str.startsWith(" Now"));  // there is space
-        System.out.println(str.startsWith("")); // there are nothing before
+        System.out.println(str.startsWith("")); // there are no space before
         System.out.println("......................");
 
         System.out.println(str.endsWith("great"));

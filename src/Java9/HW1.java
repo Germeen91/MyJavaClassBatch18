@@ -29,6 +29,14 @@ for (int i=0;i<grocery.length; i++){  // how many row in all array
 }
 
 
+        System.out.println(".................");
+
+  for (String [] G:grocery){
+      for (String K:G){
+          System.out.print(K+ " ");
+      }
+      System.out.println();
+  }
 
     }
 }

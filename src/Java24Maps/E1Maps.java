@@ -17,7 +17,7 @@ public class E1Maps {
         maps.put("Orange",20);
         maps.put("Orange",20);
 //duplicate keys are not allowed if we try it  will replace previous value
-        //maps.put("Kiwi",5);
+      //maps.put("Kiwi",15);
         System.out.println(maps);
         System.out.println(maps.size());
         System.out.println(maps.containsKey("Apple"));

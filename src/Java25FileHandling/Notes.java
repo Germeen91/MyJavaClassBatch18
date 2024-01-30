@@ -20,7 +20,8 @@ Steps to create a new folder in your project:
 -Excel >> copy >> paste
 
 To read Excel you have to go to maven dependency online and search (poi-ooxml) >> then copy paste in your pom.xml
-
+dependencies called >> apache .. to use excel reader
+                    >>
 
 
 

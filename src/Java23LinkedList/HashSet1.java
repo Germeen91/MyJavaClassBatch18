@@ -10,6 +10,7 @@ public class HashSet1 {
         numbers.add(20);
         numbers.add(10);
         System.out.println(numbers);
+
         HashSet<Integer> nums=new HashSet<>();   // Set is the name of interface
         nums.add(10);
         nums.add(20);

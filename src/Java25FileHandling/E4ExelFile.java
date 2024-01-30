@@ -27,6 +27,7 @@ public class E4ExelFile {
         Cell cell1=row0.getCell(1);  // colum in excel is Cell
         System.out.println(cell1);
 
+
     }
 }
 

@@ -7,7 +7,7 @@ public class E6Exception {
         //run time >> exception ... the code look good but when you run your code  will get error console in location
         //logical error >>  ... the code look good but you dont get any outcomes because some logic error
 
-
+ // Every Error is Class >> mean you can go through the exception and read about it on console
         System.out.println(10/0); // Run Time Error
 
 

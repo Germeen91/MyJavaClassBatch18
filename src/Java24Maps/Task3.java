@@ -17,17 +17,18 @@ public class Task3 {
 
         String name="";
         int salary=0;
-        for (var e:employee.entrySet()){
+
+        // here i have condition in value in one part so, i have to convert it to manipulate
+
+
+        for (Map.Entry<String,Integer> e:employee.entrySet()){
+
             if (e.getValue()>salary){
                 name=e.getKey();
                 salary=e.getValue();
             }
         }
         System.out.println(name+" "+salary);
-
-
-
-
 
 
 

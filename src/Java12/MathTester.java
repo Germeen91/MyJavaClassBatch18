@@ -14,9 +14,9 @@ public class MathTester {
         m.printHelloManyTime();// calling a method
 
         m.printNTimes(10);
+
         String str="hello";
         str.charAt(0);
-
 
     }
 }

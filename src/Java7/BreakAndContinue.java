@@ -6,7 +6,8 @@ public class BreakAndContinue {
         //then continue
         // but break to stop repetitive the loop after
         // achieve condition
-
+// break here for (for loop ) to break
+        // but in (while loop) we declare var then while(the condition is true) >> then break it by using reverse of var
         for (int p=1;p<4;p++){
             for (int l=1;l<=3;l++){
                 if (l==2){

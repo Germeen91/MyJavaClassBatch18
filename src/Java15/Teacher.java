@@ -16,12 +16,12 @@ public class Teacher {
         this.name=name;
         this.address=address;
     }
-    public void print(){
+    public void print(){   // better public for constructor
         System.out.println(name+" "+address);
     }
 
 
-    public static void main(String[] args) {     // better public
+    public static void main(String[] args) {
         Teacher obj=new Teacher("Germeen","California");
         obj.print();
     }

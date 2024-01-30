@@ -2,8 +2,6 @@ package Java15;
 
 public class Demo {
 
-
-
     Demo(){
         System.out.println("1");
     }

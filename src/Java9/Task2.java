@@ -2,7 +2,7 @@ package Java9;
 
 public class Task2 {
     public static void main(String[] args) {
-// Creat 2D array of cars : american,german,korian,italian.
+// Create 2D array of cars : american,german,korian,italian.
         //then retrieve all values from that array using 2 different loops
 
         String [][] cars={

@@ -18,6 +18,7 @@ public class Task3 {
                 i--;               // because arraylist is continuing based on the previous, so we need decrease
             }
         }
+
         //Or no need loop
         System.out.println(words);
         /////////////////////////////////////////////////////

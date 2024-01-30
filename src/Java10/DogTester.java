@@ -11,7 +11,7 @@ public class DogTester {
       /*
       Dog => Data Type
       dog1=>is a variable that holds the object
-       new Dog(); => Creating the object of dog class
+       new Dog(); => Creating the object of dog class (constructor)
        */
 
 

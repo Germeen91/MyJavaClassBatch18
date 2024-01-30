@@ -20,6 +20,7 @@ public class Test {
 
 
         Test n=new Test();
+        n.num(6);
         n.num(7);
 
     }

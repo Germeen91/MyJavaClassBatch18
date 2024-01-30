@@ -6,7 +6,7 @@ import java.util.Set;
 public class HashSet2 {
     public static void main(String[] args) {
 
-       Set<String> fruit=new HashSet<>();   //>> prefer because you achieve polymorphism any where in your port
+       Set<String> fruit=new HashSet<>();   //>> prefer because you achieve polymorphism any where in your project
         //HashSet <String> fruit=new HashSet<>();
         fruit.add("Mango");
         fruit.add("Apple");

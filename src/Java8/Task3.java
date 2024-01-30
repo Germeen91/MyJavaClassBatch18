@@ -7,7 +7,7 @@ public class Task3 {
 
         int []numbers={101,100,25,30,25,50,300};
 
-        int n5=0,n2=0;
+        int n5=0, n2=0;
 
         for(int x:numbers){
             if(x%5==0){

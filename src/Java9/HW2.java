@@ -39,7 +39,7 @@ for (int i=0; i<countries.length; i++){
             }
             System.out.println();
         }
-        System.out.print("Totall = "+total);
+        System.out.print("Total = "+total);
 
 
     }

@@ -10,7 +10,7 @@ public class HW2 {
         System.out.println("I love programming languages");
     }
 
-    void print2(String word){
+    void print(String word){     // overLoad
         System.out.println("I love "+word);
     }
 
@@ -19,7 +19,7 @@ public class HW2 {
         HW2 obj=new HW2();
         obj.print();
 
-        obj.print2("Java");
+        obj.print("Java");
     }
 
 }

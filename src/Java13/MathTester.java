@@ -11,7 +11,7 @@ public class MathTester {
         obj.add(10,5);   //  there are two argument we put them as numbers in parentheses
         // because in the class there are parameter
         // the method not empty
-// here the method in the class has print so we not call it again
+// here the method in the class has print ,so we not call it again
 
 
         int r= obj.multiply(10,2); //the return type of method in class is int

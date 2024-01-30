@@ -8,15 +8,15 @@ public class Math {
 
         System.out.println(input1 + input2);
     }
-        // (return type , output) is  void method when you are not planning to return something(no get feedback) no if , no loop , no any thing
-        // (input , parameter or argument )  is int input 1,2      ... is optional
-        //  add  name of the method
+        // (return type , output) >> is  void method when you are not planning to return something(no get feedback) no if , no loop , no any thing
+        // (input , parameter or argument ) >>  is int input 1,2      ... is optional
+        //  add >>  name of the method
 
 
 
         int multiply(int num1,int num2){
 
-        return num1*num2;
+        return num1*num2;   // return means the form of method when i print it (i can not print all parameters by return)
         }
     // (return type , output) is  int method
     // (input , parameter or argument )  is int num 1,2      ... is optional

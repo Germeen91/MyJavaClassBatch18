@@ -4,6 +4,7 @@ public class Array1 {
     public static void main(String[] args) {
 
 
+//print student mark A && B
 
         String [][] students= {
                 {"Muhayyo", "Azam", "Abdulloh", "Maryam"},

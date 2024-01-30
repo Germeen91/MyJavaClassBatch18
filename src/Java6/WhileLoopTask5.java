@@ -9,7 +9,7 @@ public class WhileLoopTask5 {
             if (b%2!=0){
                 System.out.println(b);
             }
-            --b;     // we can use simple method instead of if statement
+            b--;     // we can use simple method instead of if statement
                      // but make value b= 99; because start from odd number then make the close is b=b-2;
         }
 

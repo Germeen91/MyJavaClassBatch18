@@ -15,7 +15,7 @@ public class AnimalTester {
         // constructor help us to pass fields those are privet
 
        // Animal a=new Animal("Jacky","white",12,22);
-        //
+        // OR obj for each child
        Dog d=new Dog("Jacky","white",12,22);
 
        d.printInfo();

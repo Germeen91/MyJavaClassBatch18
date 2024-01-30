@@ -11,7 +11,7 @@ public class T2CreditCard {
     }
 }
 class Visa extends T2CreditCard{
-    void CalculateInterest(double balance){   // over riding method
+    void CalculateInterest(double balance){   // overriding method
         double interest=balance*0.07;
         System.out.println( "Interest on "+balance+" is "+interest);
     }

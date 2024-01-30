@@ -15,7 +15,8 @@ public class Array6 {
         for (int i = 0; i < 5; ++i) { //0
             sum = sum + numbers [i]; //0+10
 
-        }System.out.println(sum);
+        }
+        System.out.println(sum);
 
 
     }

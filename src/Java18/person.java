@@ -31,7 +31,7 @@ class  student extends person {
         System.out.println(marks);
     }
 
-    public void printInfo(){ // over riding method
+    public void printInfo(){ // overriding method
       super.printInfo();
         System.out.println(marks);
 

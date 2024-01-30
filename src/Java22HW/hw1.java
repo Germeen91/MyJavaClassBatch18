@@ -17,9 +17,11 @@ public class hw1 {
         for (int i=0; i<cars.size(); i++){
             System.out.println(cars.get(i));
         }
+
         for (String s:cars){
             System.out.println(s);
         }
+
 cars.forEach(x-> System.out.println(x));
     }
 }

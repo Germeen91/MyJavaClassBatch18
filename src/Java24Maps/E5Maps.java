@@ -16,9 +16,9 @@ public class E5Maps {
         System.out.println(maps.keySet());
         System.out.println(maps.values());
 
-        //Returns the keys in the form of a st
+        //Returns the keys in the form of a set
         var keys=maps.keySet();
-       var array=new ArrayList<>(keys); // convert it
+       var array=new ArrayList<>(keys); // convert keys to set then print it
 
         for (var K:keys){   // maps not support loop directly you have to set method
             System.out.println(K);

@@ -27,7 +27,7 @@ public class E8Collection {
         LinkedHashSet <Integer> uniqueNumber=new LinkedHashSet<>(numbers); // keep the same original order without duplicate
         System.out.println(uniqueNumber);
 
-        TreeSet<Integer> treeSet=new TreeSet<>(uniqueNumber); // sort data in order
+        TreeSet<Integer> treeSet=new TreeSet<>(uniqueNumber); // sort data and remove duplicate
         System.out.println(treeSet);
 
 

@@ -6,8 +6,7 @@ public class Constants {
 
     //static if we are not planning to change value
     //instance if we are planning to use same value common between all classes (will not plan to change)
-    public static final String CONFIG_FILE_PATH="C:\\Users\\Germe\\IdeaProjects\\JavaProject\\Files\\config.proporties";
-
+    public static final String CONFIG_FILE_PATH=System.getProperty("user.dir")+"\\Files\\config.proporties";
     public static final String EXCEL_FILE_PATH=System.getProperty("user.dir")+"\\Files\\Batch18.xlsx";
 
    /* Why, we have created this constants file

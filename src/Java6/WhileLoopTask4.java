@@ -9,7 +9,7 @@ public class WhileLoopTask4 {
             if (x%2==0){
                 System.out.println(x);
             }
-            ++x;
+            x++;
                    // when can not use if we can put condition is x=x+2;
 
         }

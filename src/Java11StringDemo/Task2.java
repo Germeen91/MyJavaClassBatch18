@@ -12,7 +12,8 @@ int count=0;
             if (str.charAt(i)=='a')
             count++;
 
-        }            System.out.println(count);
+        }
+        System.out.println(count);
 
     }
 }
