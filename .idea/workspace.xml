@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b8b1177-e874-4bdc-8014-54c2edececf9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/target/classes/review12/E4Exception.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/review12/Notes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/review12/Tester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java11StringDemo/StringDemo11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java11StringDemo/StringDemo11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java11StringDemo/StringDemo11.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java11StringDemo/StringDemo11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/review12/BrainNotFound.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/review12/BrainNotFound.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/review12/E3Exception.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/review12/E3Exception.class" afterDir="false" />
-    </list>
+    <list default="true" id="9b8b1177-e874-4bdc-8014-54c2edececf9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
