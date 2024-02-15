@@ -115,6 +115,7 @@ class Bicycle extends HW1Vehicle{
             V.accelerate();
             V.brake();
 
+
             if (V instanceof Truck){
                 Truck T=(Truck) V;
                 T.carLoad();
@@ -125,6 +126,7 @@ class Bicycle extends HW1Vehicle{
             }
             if (V instanceof Bicycle){
                 Bicycle B=(Bicycle) V;
+                B.drift();
             }
             System.out.println("......................");
         }

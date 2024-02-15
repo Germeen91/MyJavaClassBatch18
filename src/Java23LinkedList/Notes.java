@@ -54,4 +54,26 @@ HashSet ......   Remove duplicate  & not keep insertion order is maintained (if 
 LinkedHashSet .....  Remove duplicate  & keep insertion order is maintained
 TreeSet ...... Remove duplicate  & Sort elements alphabet or numbers
 */
+
+
+    /*LinkedList:
+
+Set:
+    Sets are very similar to list but they do not
+    allow duplicate elements.
+HashSet:
+    UpSide:
+    Its Fast.
+    DownSide:
+    They don't store the data in order.
+LinkedHashSet:
+    Upside:
+        It remembers the order.
+    Downside:
+        Its slower than HashSet.
+TreeSet:
+    Upside:
+        It keeps the data sorted always.
+    Downside:
+           Inserting new elements is very slow.*/
 }
