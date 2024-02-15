@@ -4,6 +4,9 @@ public class ifStatments {
     public static void main(String[] args) {
 
 
+
+
+
         boolean isRaining=true;
 
         if (isRaining) {
