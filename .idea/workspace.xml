@@ -6,13 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9b8b1177-e874-4bdc-8014-54c2edececf9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java22FrameWork/E5ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java22FrameWork/E5ArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java22InterFaces/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java22InterFaces/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java25FileHandling/E1FileHandling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java25FileHandling/E1FileHandling.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java19Poly/HW1VehicleTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java19Poly/HW1VehicleTester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java22FrameWork/E5ArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java22FrameWork/E5ArrayList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java22InterFaces/Math.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java22InterFaces/Math.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java3/ifStatments.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java3/ifStatments.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

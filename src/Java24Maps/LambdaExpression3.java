@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
 
-public class git add .class
+public class
 LambdaExpression3 {
     public static void main(String[] args) {
         Map<String,Integer> maps=new HashMap<>();
