@@ -14,9 +14,9 @@ public class E1FileHandling {
 
         //Navigate to this location
 
-        FileInputStream fis=new FileInputStream(path); //This class bring this file inside your computer memory
+        FileInputStream fis=new FileInputStream(path); //This object of  class bring this file inside your computer memory
 
-        //This is the special class that knows how to read/write data from .properties file
+        //This object of  the special class that knows how to read/write data from .properties file
         Properties properties=new Properties();
 properties.load(fis);
 
